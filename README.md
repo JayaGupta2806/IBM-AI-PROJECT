@@ -1,5 +1,5 @@
 # IBM-AI-PROJECT
 
-https://drive.google.com/file/d/1uJ4Aou51AL7sfnA2K7xVZwp51ANFs0ot/view?usp=sharing
+https://drive.google.com/drive/folders/1R2rxMUGCLPmwJXtIX5dfTG_VkiUW0ttj?usp=sharing
 
 above link contains- fruit.h5 model,vegetable.h5 model,Flask Folder, dataset
